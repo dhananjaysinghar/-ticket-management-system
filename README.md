@@ -215,9 +215,3 @@ ticket-management-system/
 ├── LICENSE
 └── README.md
 ```
-
-## License
-
-Copyright (c) 2026 Di2iT, Unipessoal Lda.  
-This project is licensed under the [Business Source License 1.1](LICENSE).  
-Change Date: 2029-01-01 → Change License: Apache 2.0.
